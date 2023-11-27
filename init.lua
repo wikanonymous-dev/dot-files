@@ -16,3 +16,4 @@ end
 require("weecode.core.base")
 require("weecode.core.map")
 require("weecode.lazy")
+require("weecode.misc")
