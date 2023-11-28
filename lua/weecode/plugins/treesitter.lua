@@ -32,7 +32,9 @@ return {
         "dockerfile",
         "gitignore",
         "vue",
-        "lua"
+        "lua",
+        "bash",
+        "regex"
       },
       context_commentstring = {
         enable = true,
